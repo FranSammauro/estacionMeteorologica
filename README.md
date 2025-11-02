@@ -116,7 +116,7 @@ Para encontrar la IP del servidor:
 ## 📁 Estructura del Proyecto
 
 ```
-weatherstation/
+estacionMeteorologica/
 ├── server.js              # Servidor Express + Socket.io
 ├── package.json           # Dependencias
 ├── data/
@@ -124,7 +124,7 @@ weatherstation/
 ├── public/
 │   └── index.html        # Dashboard web
 └── arduino/
-    └── weather_station.ino # Código Arduino
+    └── estacion_meteorologica.ino # Código Arduino
 ```
 
 ## 🔌 Datos de Base de Datos
