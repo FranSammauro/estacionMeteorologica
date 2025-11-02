@@ -29,7 +29,7 @@ cd estacionMeteorologica
 
 ### 2. Instalar dependencias Node.js
 ```bash
-npm install
+npm install react@18.3.1 react-dom@18.3.1
 npm install express socket.io sqlite3 cors
 ```
 
