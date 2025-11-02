@@ -44,7 +44,7 @@ El servidor estará disponible en: `http://localhost:3000` (o tu IP local)
 
 1. Abre Arduino IDE
 2. Ve a **Archivo > Ejemplos > WiFiS3 > WiFiWebClient** para verificar WiFi
-3. Abre el archivo `arduino/weather_station.ino`
+3. Abre el archivo `arduino/estacion_meteorologica.ino`
 4. **Configura estos parámetros:**
    ```cpp
    const char* ssid = "RED_WiFi";         // Tu SSID
